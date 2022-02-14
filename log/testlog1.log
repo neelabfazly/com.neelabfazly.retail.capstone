@@ -1,0 +1,82 @@
+2022-02-14 14:14:58,897 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart Started 
+2022-02-14 14:15:03,831 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:03,843 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:09,675 [main] INFO logger_File - Add and Remove a Mac Book from Cart   passed
+2022-02-14 14:15:09,680 [main] INFO logger_File - Scenario Product Comparison Started 
+2022-02-14 14:15:13,125 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:13,135 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:16,641 [main] INFO logger_File - Product Comparison   passed
+2022-02-14 14:15:16,645 [main] INFO logger_File - Scenario Adding and item to Wish list Started 
+2022-02-14 14:15:20,066 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:20,076 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:22,764 [main] INFO logger_File - Adding and item to Wish list   passed
+2022-02-14 14:15:22,772 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2022-02-14 14:15:26,248 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:26,256 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:30,038 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2022-02-14 14:15:30,046 [main] INFO logger_File - Scenario Register as an Affiliate userwith Cheque Payment Method Started 
+2022-02-14 14:15:34,045 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:34,052 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:35,519 [main] INFO logger_File - User click on Login
+2022-02-14 14:15:39,245 [main] INFO logger_File - User enter email address
+2022-02-14 14:15:39,347 [main] INFO logger_File - User enter password
+2022-02-14 14:15:40,506 [main] INFO logger_File - User click on Login button
+2022-02-14 14:15:46,717 [main] INFO logger_File - User clicked on Continue button
+2022-02-14 14:15:47,506 [main] INFO logger_File - Register as an Affiliate userwith Cheque Payment Method   passed
+2022-02-14 14:15:47,510 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2022-02-14 14:15:50,984 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:15:50,991 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:15:52,363 [main] INFO logger_File - User click on Login
+2022-02-14 14:15:56,153 [main] INFO logger_File - User enter email address
+2022-02-14 14:15:56,249 [main] INFO logger_File - User enter password
+2022-02-14 14:15:57,346 [main] INFO logger_File - User click on Login button
+2022-02-14 14:16:02,970 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2022-02-14 14:16:02,973 [main] INFO logger_File - Scenario Edit your account Information Started 
+2022-02-14 14:16:06,627 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:16:06,635 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:16:07,774 [main] INFO logger_File - User click on Login
+2022-02-14 14:16:11,532 [main] INFO logger_File - User enter email address
+2022-02-14 14:16:11,620 [main] INFO logger_File - User enter password
+2022-02-14 14:16:12,758 [main] INFO logger_File - User click on Login button
+2022-02-14 14:16:18,775 [main] INFO logger_File - Edit your account Information   passed
+2022-02-14 14:18:12,722 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart Started 
+2022-02-14 14:18:17,704 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:18:17,715 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:18:23,343 [main] INFO logger_File - Add and Remove a Mac Book from Cart   passed
+2022-02-14 14:18:23,350 [main] INFO logger_File - Scenario Product Comparison Started 
+2022-02-14 14:18:28,685 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:18:28,698 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:18:32,383 [main] INFO logger_File - Product Comparison   passed
+2022-02-14 14:18:32,387 [main] INFO logger_File - Scenario Adding and item to Wish list Started 
+2022-02-14 14:18:35,974 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:18:35,982 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:18:39,159 [main] INFO logger_File - Adding and item to Wish list   passed
+2022-02-14 14:18:39,168 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2022-02-14 14:18:42,702 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:18:42,714 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:18:46,431 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2022-02-14 14:18:46,439 [main] INFO logger_File - Scenario Register as an Affiliate userwith Cheque Payment Method Started 
+2022-02-14 14:18:49,754 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:18:49,764 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:18:50,984 [main] INFO logger_File - User click on Login
+2022-02-14 14:18:54,705 [main] INFO logger_File - User enter email address
+2022-02-14 14:18:54,821 [main] INFO logger_File - User enter password
+2022-02-14 14:18:56,113 [main] INFO logger_File - User click on Login button
+2022-02-14 14:19:02,301 [main] INFO logger_File - User clicked on Continue button
+2022-02-14 14:19:03,081 [main] INFO logger_File - Register as an Affiliate userwith Cheque Payment Method   passed
+2022-02-14 14:19:03,084 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2022-02-14 14:19:06,520 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:19:06,527 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:19:07,733 [main] INFO logger_File - User click on Login
+2022-02-14 14:19:11,498 [main] INFO logger_File - User enter email address
+2022-02-14 14:19:11,593 [main] INFO logger_File - User enter password
+2022-02-14 14:19:12,675 [main] INFO logger_File - User click on Login button
+2022-02-14 14:19:18,281 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2022-02-14 14:19:18,285 [main] INFO logger_File - Scenario Edit your account Information Started 
+2022-02-14 14:19:21,627 [main] INFO logger_File - Retail page is opened
+2022-02-14 14:19:21,636 [main] INFO logger_File - Page title  is verified
+2022-02-14 14:19:22,851 [main] INFO logger_File - User click on Login
+2022-02-14 14:19:26,571 [main] INFO logger_File - User enter email address
+2022-02-14 14:19:26,675 [main] INFO logger_File - User enter password
+2022-02-14 14:19:27,887 [main] INFO logger_File - User click on Login button
+2022-02-14 14:19:33,853 [main] INFO logger_File - Edit your account Information   passed
